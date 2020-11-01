@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/[ONTIVA.COM] Shantae and the Pirate's Curse OST The Nightmare Woods ( Run Run Rottytops! )-HQ.ogg-8a78b643f48f9b7935fb54300ab52964.oggstr"
+
+[deps]
+
+source_file="res://Assets/[ONTIVA.COM] Shantae and the Pirate's Curse OST The Nightmare Woods ( Run Run Rottytops! )-HQ.ogg"
+dest_files=[ "res://.import/[ONTIVA.COM] Shantae and the Pirate's Curse OST The Nightmare Woods ( Run Run Rottytops! )-HQ.ogg-8a78b643f48f9b7935fb54300ab52964.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
